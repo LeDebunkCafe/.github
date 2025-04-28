@@ -28,7 +28,7 @@ Pour rejoindre l’équipe ou accéder au code, contactez-nous.
 ## 🤝 Équipe technique
 
 - **Syxles** (`@syxless`) – Dev fullstack
-- **Polyum** (`@?`) – Responsable SI & Sécurité 
+- **CrowINT** (`@?`) – Responsable SI & Sécurité 
 
 ---
 
