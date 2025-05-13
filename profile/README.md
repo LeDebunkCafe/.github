@@ -27,8 +27,8 @@ Pour rejoindre l’équipe ou accéder au code, contactez-nous.
 
 ## 🤝 Équipe technique
 
+- **CrowINT** (`@CrowINT`) – Responsable SI & Sécurité 
 - **Syxles** (`@syxless`) – Dev fullstack
-- **CrowINT** (`@?`) – Responsable SI & Sécurité 
 
 ---
 
