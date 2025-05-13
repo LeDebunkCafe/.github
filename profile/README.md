@@ -20,7 +20,8 @@ Pour rejoindre l’équipe ou accéder au code, contactez-nous.
 ## 🔗 Liens utiles
 
 - 🌐 Site web : https://debunkcafe.fr  
-- 🐙 GitHub Org : https://github.com/Le-Debunk-Cafe  
+- 💬 Discord : https://debunkcafe.fr/discord  
+- 🐙 GitHub Organisation : https://github.com/LeDebunkCafe  
 - ✉️ Contact : contact@debunkcafe.fr  
 
 ---
